@@ -1,5 +1,5 @@
 # markowitz-risco
-Modelo de otimização para otimização de portfólio de investimentos que utiliza inteligência artificial para prever o retorno financeiro esperado
+Modelo para otimização de portfólio de investimentos que utiliza inteligência artificial para prever o retorno financeiro esperado
 
 ## Estrutura do código
 
