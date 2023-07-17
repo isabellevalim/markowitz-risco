@@ -4,7 +4,9 @@ Modelo para otimização de portfólio de investimentos que utiliza inteligênci
 ## Estrutura do código
 
 Class ReturnsPredictor – contém os métodos necessários para construção do modelo de predição dos valores de retorno para o ano 2021
+
 Class Optimizer – contém os métodos necessários para otimização da carteira utilizando redes neurais
+
 Class Markowitz – contém os métodos necessários para alocação de carteiras utilizando a teoria de Markowitz
 
 
